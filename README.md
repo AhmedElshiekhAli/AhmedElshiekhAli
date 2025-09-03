@@ -46,6 +46,7 @@
 </div>
 
 ---
+![Snake animation](https://github.com/AhmedElshiekhAli/AhmedElshiekhAli/blob/output/snake.svg)
 
 ### 📫 تواصل معي  
 
