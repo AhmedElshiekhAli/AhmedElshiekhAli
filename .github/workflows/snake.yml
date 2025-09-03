@@ -5,6 +5,9 @@ on:
     - cron: "0 0 * * *"   # يشتغل كل يوم مرة
   workflow_dispatch:       # يسمحلك تشغله يدوي
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
